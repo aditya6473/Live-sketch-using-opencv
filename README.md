@@ -1,4 +1,4 @@
-#live sketch using opencv
+
 import cv2
 import numpy as np
 def sketch(image):
